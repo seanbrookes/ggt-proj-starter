@@ -11,6 +11,8 @@
 *.tgz
 *.xml
 .DS_Store
+/server/datasources.json
+/server/boot/init-user-script.js
 .idea
 .project
 .strong-pm

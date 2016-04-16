@@ -29,3 +29,5 @@ boot(app, __dirname, function(err) {
   if (require.main === module)
     app.start();
 });
+
+// mongodb default port: 27017

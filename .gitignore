@@ -11,7 +11,7 @@
 *.tgz
 *.xml
 .DS_Store
-/server/datasources.json
+/server/datasource-config.json
 /server/boot/init-user-script.js
 .idea
 .project

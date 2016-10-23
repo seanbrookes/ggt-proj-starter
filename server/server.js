@@ -1,3 +1,6 @@
+// debugging blog: https://www.raymondcamden.com/2015/10/28/a-quick-look-at-debugging-node-js-with-strongloop-and-visual-studio-code/
+
+
 var loopback = require('loopback');
 var boot = require('loopback-boot');
 var express = require('express');
